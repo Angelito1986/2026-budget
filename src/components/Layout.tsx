@@ -42,8 +42,7 @@ export function Layout({
               />
               <div>
                 <h2 className="text-black font-bold text-sm sm:text-base lg:text-lg">FY 2026 Budget Dashboard</h2>
-                <div className="text-xs text-gray-800">By BetterGov.ph</div>
-              </div>
+Managed by Angelito Virrey powered by bettergov.ph              </div>
             </div>
 
             {/* Center: Desktop Navigation */}
